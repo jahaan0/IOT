@@ -1,0 +1,9 @@
+in this practical we will create the telegram bot using python and the telepot package.
+
+Step 1 - Go to bot father in Telegram to make a bot.
+Step 2 - Create a bot with favorable name.
+Step 3 - Download and install pip using python.
+Step 4 - Download and install the Telebot package.
+Step 5 - Type in the code and put in your Bot ID.
+Step 5 - Go to telegram and type in a text to your bot.
+end
